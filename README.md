@@ -16,7 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-soliman-28104a1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-soliman-28104a1a8/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omar-soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-soliman" height="30" width="40" /></a>
+<a href="https://fb.com/omar.alshafey.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar.alshafey.9" height="30" width="40" /></a>
+<a href="https://instagram.com/shaf3y_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaf3y_7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/omarshaf3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omarshaf3y" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +30,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarshaf3y&show_icons=true&locale=en" alt="omarshaf3y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarshaf3y&" alt="omarshaf3y" /></p>
+<br> <br>
+## 🐍 A Snake Eating My Contributions Graph
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>

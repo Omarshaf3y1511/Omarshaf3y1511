@@ -1,3 +1,2 @@
-### Hi there, 👋
-I am Omar from Egypt, I’m currently learning **FLUTTER Development**. I really enjoy learning languages and frameworks.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarshaf3y1511)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hey Everyone 👋, I'm Omar Soliman</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>

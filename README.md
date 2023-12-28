@@ -1,9 +1,13 @@
 <h1 align="center">Hey Everyone 👋, I'm Omar Soliman</h1>
+<br> <br> <br>
+<p align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=25&duration=5001&pause=1000&color=1976D2&center=true&random=false&width=435&lines=Computer+Science+Student;Flutter+Developer" alt="Typing SVG" /></a>
+  </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/Omarshaf3y1511/Omarshaf3y1511/main/mobile app.png" height=400px width=100%> </div>
 <h3 align="center">A passionate Flutter Developer From Egypt.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Omarshaf3y1511/Omarshaf3y1511/main/Right_Side.gif" width=30%>
 <br>
-
+<br>
 - 🔭 I am a Fresh Graduate from the [Faculty of Computers & Informatics](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/)
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**

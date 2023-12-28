@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Omarshaf3y1511/Omarshaf3y1511/main/Right_Side.gif" width=30%>
 <br>
 <br>
-- 🔭 I am a Fresh Graduate from the Faculty of Computers & Informatics at [Suez Canal University] (http://suez.edu.eg/ar/)
+- 🔭 I am a Fresh Graduate from the Faculty of Computers & Informatics at Suez Canal University
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**
 

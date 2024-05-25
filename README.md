@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**
 
-- 👨‍💻 All of my projects are available at [github.com/Omarshaf3y1511](github.com/Omarshaf3y1511)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/omarshaf3y?tab=repositories)
 
 - 💬 Ask me about **Flutter and Dart**
 

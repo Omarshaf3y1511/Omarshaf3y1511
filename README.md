@@ -19,6 +19,9 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Umo_eL94pM1AhvzjqbrhfwqZGH2Q6vWy/view?usp=drive_link).
 <br>
 
+<a href="https://komarev.com/ghpvc/?username=omarshaf3y&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=omarshaf3y&style=for-the-badge">
+</a>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
@@ -143,6 +146,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarshaf3y&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
+
+
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
